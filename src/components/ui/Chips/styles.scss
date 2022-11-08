@@ -1,0 +1,14 @@
+.chips {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.chip {
+    margin: 4px;
+    background-color: #2d72d2;
+    color: #fff;
+    padding: 3px 8px 3px 8px;
+    border-radius: 30px;
+    font-size: 15px;
+}
